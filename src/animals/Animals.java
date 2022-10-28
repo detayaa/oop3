@@ -26,12 +26,15 @@ public class Animals {
 
 
     public void eat() {
+        System.out.println("Кушает");
     }
 
     public void sleep() {
+        System.out.println("Спит");
     }
 
     public void go() {
+        System.out.println("Передвигается");
     }
 
 

@@ -18,7 +18,7 @@ public class Predators extends Mammals {
     }
 
 
-        public void go() {
+    public void go() {
             System.out.println("охотится");
         }
     public void eat(){
